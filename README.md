@@ -1,1 +1,1 @@
-#axial-coronal-sagital-plane-ct
+*Axial Plane*
