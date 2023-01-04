@@ -14,7 +14,7 @@ To run this project, you will need to add the following packages:
 
 `numpy`
 
-Also download one of dataset with .dcm extension from [FUMPE](https://figshare.com/collections/FUMPE/4107803) 
+Also download one of datasets with .dcm extension from [FUMPE](https://figshare.com/collections/FUMPE/4107803) 
 
 
 ## Features
