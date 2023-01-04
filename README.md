@@ -10,7 +10,7 @@ To run this project, you will need to add the following packages:
 
 `pydicom`
 
-`matplotlib.pyplot`
+`matplotlib`
 
 `numpy`
 
