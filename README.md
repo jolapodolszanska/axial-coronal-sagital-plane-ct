@@ -63,7 +63,7 @@ planes are usually shown in vertical orientation.
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/jolapodolszanska/axial-coronal-sagital-plane-ct/main/Figure%202023-01-03%20184035.png)
+![App Screenshot](https://raw.githubusercontent.com/jolapodolszanska/axial-coronal-sagital-plane-ct/main/Figure_1.png)
 
 
 ## Running Tests
