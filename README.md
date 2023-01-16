@@ -78,4 +78,4 @@ Sagittal Aspect Ratio: 0.673828
 Coronal Aspect Ratio: 1.4840582463180516
 ```
 
-Implement on base of PyDICOM: [PyDICOM](https://pydicom.github.io/pydicom/dev/auto_examples/image_processing/reslice.html)
+Implement on base of [PyDICOM](https://pydicom.github.io/pydicom/dev/auto_examples/image_processing/reslice.html)
