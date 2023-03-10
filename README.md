@@ -1,8 +1,8 @@
 
 # Plotting the axial, coronal and sagittal plane DICOM image in Python
 
-
-
+This repository is part of a blog post:
+https://deepdrive.pl/wykreslanie-plaszczyzn-na-obrazie-dicom-w-pythonie/
 
 ## Run project
 
